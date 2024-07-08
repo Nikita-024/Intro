@@ -1,3 +1,3 @@
 # Intro
-Basic introduction to Github
-Author - Nikita
+This is my first Git repository <br>
+Author - Nikita Swami
